@@ -2,7 +2,7 @@
 # Script to get the device data and append it to a file
 # Usage
 # python GetData.py <device>
-# e.g. python GetData.py "00:29:40:08:00:01"
+# e.g. python ble_data.py "ca:67:02:0d:60:1d"
 import pexpect
 import time
 import sys
